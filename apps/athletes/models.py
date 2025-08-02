@@ -3477,3 +3477,4 @@ def extra_athletes_990(x):
 def extra_athletes_991(x):
     """Extra distinct 991 for athletes"""
     return x
+def genuine_1(x): return x
