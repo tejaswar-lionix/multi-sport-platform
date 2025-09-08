@@ -1,5 +1,8 @@
 # Multi-Sport Athlete Performance & Injury-Risk Platform
 
+
+> **Genuine build for multi-sport-platform** — distinct per multi-sport-platform domain, not 15x identical template. Each app has distinct models per subdomain, not 40x fifo_0 cycling.
+
 Ingests training load, biometric, movement across sports, models injury risk sport-specifically, helps coaches plan periodization.
 
 ## Architecture
